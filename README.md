@@ -1,7 +1,6 @@
 # UnusualCalculator
-My very first bigger project:
+My very first project:
 - client-server architecture
-- java FX for client GUI
-- JShell for calculations instead of logic module (this is the unusual part)
-- MVC model
-- Maven support
+- java FX for GUI
+- JShell for calculations (instead of logic module: this is the unusual part)
+- MVC model, Maven support
